@@ -80,7 +80,7 @@ Fit a new linear regression model to predict perceived prestige using `log(incom
 ## My Submission
 
 <iframe
-  src="/solutions/assignments/assignment1-submission.html"
+  src="/school-notes/solutions/assignments/assignment1-submission.html"
   width="100%"
   height="900"
   frameborder="0"

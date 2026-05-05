@@ -12,7 +12,7 @@ sidebar_position: 10
 ## Solution
 
 <iframe
-  src="/solutions/tutorials/t5-solution.html"
+  src="/school-notes/solutions/tutorials/t5-solution.html"
   width="100%"
   height="900"
   frameborder="0"

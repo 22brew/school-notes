@@ -81,7 +81,7 @@ Explain what each metric represents specifically in the context of predicting st
 ## My Submission
 
 <iframe
-  src="/solutions/assignments/assignment2-submission.html"
+  src="/school-notes/solutions/assignments/assignment2-submission.html"
   width="100%"
   height="900"
   frameborder="0"
@@ -91,7 +91,7 @@ Explain what each metric represents specifically in the context of predicting st
 ## Official Solution
 
 <iframe
-  src="/solutions/assignments/assignment2-solution.html"
+  src="/school-notes/solutions/assignments/assignment2-solution.html"
   width="100%"
   height="900"
   frameborder="0"

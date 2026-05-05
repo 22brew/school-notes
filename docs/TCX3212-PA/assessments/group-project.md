@@ -40,7 +40,7 @@ The project follows the first five phases of the CRISP-DM (Cross-Industry Standa
 ## Project Notebook
 
 <iframe
-  src="/solutions/group-project/hdb-project.html"
+  src="/school-notes/solutions/group-project/hdb-project.html"
   width="100%"
   height="1000"
   frameborder="0"
