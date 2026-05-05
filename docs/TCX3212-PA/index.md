@@ -73,3 +73,10 @@ This course covers predictive analytics techniques using Python, from foundation
 - [Assignment 1 — Individual Project](/TCX3212-PA/assessments/assignment-1)
 - [Assignment 2 — Individual Project](/TCX3212-PA/assessments/assignment-2)
 - [Group Project — HDB Resale Price Prediction](/TCX3212-PA/assessments/group-project)
+
+---
+
+## 🎯 Exam Prep
+
+- [Finals Study Reference](/TCX3212-PA/exam-prep/finals-study-reference) — Q&A walkthroughs for Q1–Q19 with answer keys and key concepts (L2–L10)
+- [Supplementary Exam Notes](/TCX3212-PA/exam-prep/supplementary-notes) — Comprehensive reference: pandas, data prep, OLS, logistic regression, time series, and common MCQ traps

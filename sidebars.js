@@ -64,6 +64,16 @@ const sidebars = {
         'TCX3212-PA/assessments/group-project',
       ],
     },
+    {
+      type: 'category',
+      label: '🎯 Exam Prep',
+      collapsible: true,
+      collapsed: false,
+      items: [
+        'TCX3212-PA/exam-prep/finals-study-reference',
+        'TCX3212-PA/exam-prep/supplementary-notes',
+      ],
+    },
   ],
 };
 
