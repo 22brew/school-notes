@@ -21,8 +21,8 @@ const config = {
     },
   ],
 
-  url: 'http://localhost',
-  baseUrl: '/',
+  url: 'https://22brew.github.io',
+  baseUrl: '/school-notes/',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
